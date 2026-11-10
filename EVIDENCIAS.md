@@ -13,7 +13,7 @@ Render: https://u4p3-romero-hernandez-andy-daniel.onrender.com
 | 2  | Paso 02: migrate de la tabla Categoria OK          | 00:02:47 | evidencias/02-migrate.png        |
 | 3  | Paso 03: migración que copia categorías OK         | 00:06:43 | evidencias/03-copiar.png         |
 | 4  | Paso 04: quitar texto y renombrar, sin cambios     | 00:09:35 | evidencias/04-renombrar.png      |
-| 5  | Paso 05: SQL de los 2 índices (sqlmigrate)         | 0:014:11 | evidencias/05-indices.png        |
+| 5  | Paso 05: SQL de los 2 índices (sqlmigrate)         | 0:14:11 | evidencias/05-indices.png        |
 | 6  | Paso 06: /admin con Categorias, Facturas, Servicios| 0:17:20  | evidencias/06-admin.png          |
 | 7  | Paso 08: explico las 6 consultas de reportes.py    | 00:20:28 | —                                |
 | 8  | Paso 12: cargar_demo con tu usuario                | 00:34:12 | evidencias/12-cargar-demo.png    |
